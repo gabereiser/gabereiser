@@ -1,18 +1,9 @@
-Developer of the [Reactor 3D](https://github.com/reactor3d/reactor) game engine (in-flux).
+Former Dev of the [Reactor 3D](https://github.com/reactor3d/reactor) game engine.
+Former Head of Software Architecture @ [Faro](https://www.faro.com)
+Former Director of DevOps/Cloud Infrastructure @ [Cognizant](https://www.cognizant.com)
+Former Software Engineer.
+Former Game Developer.
+Former Husband.
+Former Sailor.
 
-Developer of Alchemist.
-
-Maker of the [SWR](https://github.com/gabereiser/swr) (golang) mud.
-
-Contributor to various open source projects.
-
-Mentor to budding startups.
-
-Polyglot Engineer.
-
-Designer of clouds.
-
-Crafter of software.
-
-
-`Sometimes, you gotta roll a hard 6. - Admiral Adama`
+Currently @ peace.
